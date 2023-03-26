@@ -11,6 +11,7 @@ import static com.github.ckroeger.jwebscraper.TimeUtil.calcTimeDiff;
 
 @AllArgsConstructor
 @ToString
+@Getter
 public class Tag {
     String url;
     String version;
