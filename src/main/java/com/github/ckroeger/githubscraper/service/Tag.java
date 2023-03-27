@@ -1,4 +1,4 @@
-package com.github.ckroeger.jwebscraper.service;
+package com.github.ckroeger.githubscraper.service;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -7,7 +7,7 @@ import lombok.ToString;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-import static com.github.ckroeger.jwebscraper.TimeUtil.calcTimeDiff;
+import static com.github.ckroeger.githubscraper.TimeUtil.calcTimeDiff;
 
 @AllArgsConstructor
 @ToString

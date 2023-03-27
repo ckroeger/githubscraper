@@ -1,4 +1,4 @@
-package com.github.ckroeger.jwebscraper.service;
+package com.github.ckroeger.githubscraper.service;
 
 import org.jsoup.nodes.Document;
 

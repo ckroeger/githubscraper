@@ -1,4 +1,4 @@
-package com.github.ckroeger.jwebscraper.service;
+package com.github.ckroeger.githubscraper.service;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Connection;
@@ -7,7 +7,6 @@ import org.jsoup.nodes.Document;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;

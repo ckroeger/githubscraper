@@ -1,4 +1,4 @@
-package com.github.ckroeger.jwebscraper;
+package com.github.ckroeger.githubscraper;
 
 import java.time.LocalDate;
 import java.time.Period;

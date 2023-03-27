@@ -11,8 +11,8 @@
     <groupId>com.github.ckroeger</groupId>
     <artifactId>jwebscraper</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jwebscraper</name>
-    <description>jwebscraper</description>
+    <name>githubscraper</name>
+    <description>githubscraper</description>
     <properties>
         <java.version>17</java.version>
     </properties>

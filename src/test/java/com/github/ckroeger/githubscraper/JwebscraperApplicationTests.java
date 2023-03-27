@@ -1,4 +1,4 @@
-package com.github.ckroeger.jwebscraper;
+package com.github.ckroeger.githubscraper;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;

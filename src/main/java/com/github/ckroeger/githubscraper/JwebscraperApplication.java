@@ -1,4 +1,4 @@
-package com.github.ckroeger.jwebscraper;
+package com.github.ckroeger.githubscraper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
